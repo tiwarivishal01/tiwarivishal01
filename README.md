@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Vishal Tiwari
 
-### Salesforce Developer • Full Stack Developer • Data Anotation & llm post data trainee • java developer
+### Salesforce Developer • Full Stack Developer • AI Engineer • Future Robotics Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Salesforce+Developer;MERN+Stack+Developer;AI+%26+LLM+Engineer;Future+Robotics+Engineer;Building+Intelligent+Systems;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Salesforce+Developer;MERN+Stack+Developer;AI+%26+LLM+Engineer;Future+Robotics+Engineer;Building+Intelligent+Systems;Always+Learning+Always+Building" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=tiwarivishal01&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<a href="https://portfolio-wine-ten-39.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="mailto:vishalatwork2905@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -22,6 +24,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tiwarivishal01&label=Profile+Views&color=0891b2&style=for-the-badge" />
+
 </div>
 
 ---
@@ -29,20 +35,19 @@
 # 🚀 About Me
 
 ```javascript
-const vishal = {
+const Vishal = {
   role: "Salesforce Developer",
   company: "FEXLE Services",
-  education: "B.Tech Computer Science Engineering",
+  education: "B.Tech Computer Science & Engineering",
   cgpa: "8.5/10",
-  
-  currentFocus: [
+
+  expertise: [
     "Salesforce Development",
-    "Full Stack Development",
-    "Large Language Models",
-    "Artificial Intelligence"
+    "MERN Stack Development",
+    "AI & LLM Engineering"
   ],
 
-  futureFocus: [
+  learning: [
     "Machine Learning",
     "Deep Learning",
     "Computer Vision",
@@ -50,61 +55,77 @@ const vishal = {
     "Robotics Engineering"
   ],
 
-  passions: [
-    "Building Scalable Applications",
-    "Solving Real World Problems",
-    "Intelligent Systems",
-    "Autonomous Robotics"
-  ],
+  goal: "Build intelligent autonomous robotic systems powered by AI",
 
-  motto: "Build Today. Innovate Tomorrow."
-};
+  currentMission:
+    "Creating scalable software today while preparing for the future of AI and Robotics."
+}
 ```
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### Explore My Complete Developer Portfolio
+
+<a href="https://portfolio-wine-ten-39.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Website-00C2FF?style=for-the-badge"/>
+</a>
+
+</div>
+
+### Portfolio Highlights
+
+- Interactive Modern Design
+- Full Stack MERN Projects
+- Salesforce Experience
+- AI & LLM Work
+- Professional Journey
+- Technical Skills Showcase
+- Contact & Resume Access
+
+🔗 **Portfolio:** https://portfolio-wine-ten-39.vercel.app/
 
 ---
 
 # 💼 Professional Experience
 
 ## 🔹 Salesforce Developer | FEXLE Services
-### Apr 2025 - Present
+### Apr 2025 – Present
 
-- Develop scalable enterprise-grade Salesforce solutions.
-- Build Lightning Web Components (LWC), Apex Classes, Triggers, Flows and Automation.
-- Implement robust security architecture using:
-  - Sharing Rules
-  - Profiles
-  - Permission Sets
-  - Role Hierarchies
-  - Field-Level Security
-- Optimize business workflows and automation processes.
-- Work with SOQL and SOSL for efficient data retrieval.
+- Develop enterprise-grade Salesforce applications.
+- Build scalable solutions using Apex, Lightning Web Components, Flows and Triggers.
+- Implement security architecture through Profiles, Roles, Permission Sets and Sharing Rules.
+- Automate business workflows and improve operational efficiency.
+- Utilize SOQL and SOSL for optimized data retrieval.
 
 ---
 
 ## 🔹 Post-LLM Trainee Intern | Ethara AI
-### Jan 2026 - Apr 2026
+### Jan 2026 – Apr 2026
 
 - Fine-tuned proprietary Large Language Models.
-- Evaluated model performance for domain-specific tasks.
-- Improved inference accuracy by **28%** through advanced prompt engineering.
-- Collaborated with ML Engineers on production AI systems.
-- Dockerized inference services.
+- Improved model inference accuracy by **28%**.
+- Optimized AI model deployment workflows.
+- Dockerized inference endpoints.
 - Reduced API latency from **2.3s to 680ms**.
 
 ---
 
 ## 🔹 MERN Stack Developer Intern | Ainvik Infotech
-### Nov 2024 - May 2025
+### Nov 2024 – May 2025
 
-- Developed scalable full-stack web applications.
-- Built responsive user interfaces using React.
-- Designed REST APIs using Node.js and Express.
-- Improved application performance by **35%** through query optimization.
-- Worked extensively with MongoDB and backend architecture.
+- Developed production-ready full-stack web applications.
+- Built scalable RESTful APIs.
+- Improved backend performance by **35%**.
+- Worked extensively with React, Node.js and MongoDB.
+- Delivered responsive and modern user experiences.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
 ## Programming Languages
 
@@ -112,23 +133,17 @@ const vishal = {
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,mysql" />
 </p>
 
----
-
 ## Frontend Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
 </p>
 
----
-
 ## Backend Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
-
----
 
 ## DevOps & Tools
 
@@ -138,59 +153,58 @@ const vishal = {
 
 ---
 
-## Salesforce Development
+# ☁️ Salesforce Expertise
 
-<p>
+<table>
+<tr>
+<td width="50%">
 
-✅ Apex
+### Development
 
-✅ Lightning Web Components (LWC)
+- Apex
+- Apex Triggers
+- LWC
+- Visualforce
+- SOQL
+- SOSL
+- Flows
+- Process Builder
 
-✅ Triggers
+</td>
 
-✅ Flows
+<td width="50%">
 
-✅ Process Builder
+### Administration
 
-✅ Visualforce
+- Security Architecture
+- Permission Sets
+- Profiles
+- Role Hierarchies
+- Sharing Rules
+- Experience Cloud
+- User Management
+- Data Governance
 
-✅ SOQL
-
-✅ SOSL
-
-✅ Experience Cloud
-
-✅ Security Architecture
-
-✅ Salesforce Administration
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Artificial Intelligence & Machine Learning
+# 🤖 AI & Machine Learning
 
-<p>
+### Areas of Experience
 
-✅ LLM Fine-Tuning
-
-✅ Prompt Engineering
-
-✅ Model Evaluation
-
-✅ Vector Databases
-
-✅ Data Annotation
-
-✅ Data Labeling
-
-✅ Retrieval-Augmented Generation (RAG)
-
-✅ AI Workflow Optimization
-
-✅ Inference Optimization
-
-</p>
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Model Evaluation
+- Fine-Tuning
+- Vector Databases
+- Data Annotation
+- Data Labeling
+- Retrieval Augmented Generation (RAG)
+- Inference Optimization
+- Dockerized AI Deployments
 
 ---
 
@@ -198,7 +212,7 @@ const vishal = {
 
 ## 🎬 Movie Ticket Booking Platform
 
-### Tech Stack
+### Stack
 
 MongoDB • Express • React • Node.js
 
@@ -207,92 +221,55 @@ MongoDB • Express • React • Node.js
 - User Authentication
 - Movie Listings
 - Real-Time Seat Selection
+- Booking Management
 - Payment Integration
-- Booking Confirmation
 - Responsive Design
-- Secure Backend Architecture
+- Secure Backend
 
-### Impact
+### Highlights
 
-Created a seamless movie booking experience with modern web technologies and optimized backend architecture.
+- Full-stack architecture
+- Modern UI/UX
+- Scalable backend APIs
 
 ---
 
 ## 💬 Real-Time Chat Application
 
-### Tech Stack
+### Stack
 
 MongoDB • Express • React • Node.js • Socket.io
 
 ### Features
 
 - Real-Time Messaging
+- Online User Presence
 - JWT Authentication
-- Online User Status
 - Typing Indicators
 - Protected Routes
-- Responsive Interface
+- Responsive Design
 
-### Impact
+### Highlights
 
-Enabled secure and scalable communication with real-time synchronization.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiwarivishal01&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarivishal01&layout=compact&theme=tokyonight"/>
-
-</div>
+- WebSocket Communication
+- Secure Authentication
+- Scalable Architecture
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarivishal01&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarivishal01&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tiwarivishal01&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-# 🏅 Achievements
-
-### 🚀 Technical Achievements
+# 🏆 Achievements
 
 - Solved **250+ LeetCode Problems**
-- Built Production-Ready MERN Applications
 - Enterprise Salesforce Development Experience
 - AI/LLM Fine-Tuning Experience
-- API Performance Optimization Expertise
-- Dockerized AI Inference Services
+- Built Multiple Full-Stack Applications
+- Performance Optimization Expertise
+- Production Deployment Experience
+- API Latency Reduction from 2.3s → 680ms
 
 ---
 
-# 🎯 Current Learning Path
+# 🎯 Current Focus
 
 ```text
 Salesforce Development
@@ -314,21 +291,21 @@ Autonomous Intelligent Systems
 
 # 🌟 2026 Goals
 
-- Master Advanced Salesforce Architecture
+- Master Salesforce Architecture
 - Build AI-Powered SaaS Products
-- Learn ROS2 & Robotics Fundamentals
-- Develop Autonomous Robotics Projects
-- Contribute to Open Source Projects
+- Learn ROS2 & Robotics
+- Contribute to Open Source
 - Reach 500+ LeetCode Problems
-- Launch Personal AI Agent Platform
+- Build Autonomous Robotics Projects
+- Launch AI Agent Applications
 
 ---
 
 # 📚 Currently Exploring
 
-- Advanced LLM Architectures
-- AI Agents
+- Agentic AI
 - Multi-Agent Systems
+- RAG Architectures
 - Deep Learning
 - Reinforcement Learning
 - Computer Vision
@@ -337,7 +314,59 @@ Autonomous Intelligent Systems
 
 ---
 
-# 🤝 Connect With Me
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiwarivishal01&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarivishal01&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarivishal01&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarivishal01&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tiwarivishal01&theme=tokyonight&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -353,16 +382,18 @@ Autonomous Intelligent Systems
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-wine-ten-39.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 💡 "Building Scalable Software Today, Engineering Intelligent Robots Tomorrow."
+## 💡 Building Scalable Software Today, Engineering Intelligent Robots Tomorrow.
 
-### Thanks for visiting my profile!
-
-⭐ Don't forget to star repositories you find useful.
+### ⭐ If you like my work, consider following my journey.
 
 </div>
