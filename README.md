@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vishal Tiwari
 
-### Salesforce Developer • Full Stack Developer • AI Engineer • Future Robotics Engineer
+### Salesforce Developer • Full Stack Developer • AI Engineer • Robotics Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Salesforce+Developer;MERN+Stack+Developer;AI+%26+LLM+Engineer;Future+Robotics+Engineer;Building+Intelligent+Systems;Always+Learning+Always+Building" />
 
